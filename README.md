@@ -2,3 +2,5 @@
 ## Clase 25
 
 Mi nombre es Sabrina
+
+Estoy estudiando programación
